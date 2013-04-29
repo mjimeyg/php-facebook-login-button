@@ -22,3 +22,7 @@ If you want to use a different font then you need to upload the truetypefont fil
 the php file and then specify the file name in the query string:
 
 &lt;img src="./images/create_fb_button.php?font=comicsans.ttf" /&gt; <img src="http://www.consof.com/create_fb_button/create_fb_button.php?font=comicsans.ttf" />
+
+If you have the foreign language truetypefont file you can supply that as well:
+
+&lt;img src="./images/create_fb_button.php?label=Facebookとコネクト&font=ipag.ttf" /&gt; <img src="http://www.consof.com/create_fb_button/create_fb_button.php?label=Facebookとコネクト&font=ipag.ttf" />
