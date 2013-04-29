@@ -14,7 +14,7 @@ Upload the file to your image directory and use it as you would an image file:
 
 You can change the default text by appending a 'label' value to the query string:
 
-&lt;img src="./images/create_fb_button.php?label=Connect with my Facebook Button" /&gt; <img src="http://www.consof.com/create_fb_button/create_fb_button.php?label=Connect with my Facebook Button" />
+&lt;img src="./images/create_fb_button.php?label=Connect with my Facebook Button" /&gt; <img src="http://www.consof.com/create_fb_button/create_fb_button.php?label=Connect%20with%20my%20Facebook%20Button" />
 
 The button will automatically be resized to fit the text.  The label can he url encoded if neccessary.
 
