@@ -10,7 +10,7 @@ Instructions:
 
 Upload the file to your image directory and use it as you would an image file:
 
-$lt;img src="./images/create_fb_button.php" />
+&lt;img src="./images/create_fb_button.php" />
 
 You can change the default text by appending a 'label' value to the query string:
 
