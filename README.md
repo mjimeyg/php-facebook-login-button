@@ -25,4 +25,4 @@ the php file and then specify the file name in the query string:
 
 If you have the correct language truetypefont file you can also specify a foreign language:
 
-&lt;img src="http://www.consof.com/create_fb_button/create_fb_button.php?label=%E3%81%A8%E3%82%B3%E3%83%8D%E3%82%AF%E3%83%88&font=ipag.ttf" / &gt;<img src="http://www.consof.com/create_fb_button/create_fb_button.php?label=%E3%81%A8%E3%82%B3%E3%83%8D%E3%82%AF%E3%83%88&font=ipag.ttf" />
+&lt;img src=".images/create_fb_button.php?label=%E3%81%A8%E3%82%B3%E3%83%8D%E3%82%AF%E3%83%88&font=ipag.ttf" /&gt;<img src="http://www.consof.com/create_fb_button/create_fb_button.php?label=%E3%81%A8%E3%82%B3%E3%83%8D%E3%82%AF%E3%83%88&font=ipag.ttf" />
