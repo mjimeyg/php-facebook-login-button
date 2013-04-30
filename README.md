@@ -21,4 +21,8 @@ The button will automatically be resized to fit the text.  The label needs to be
 If you want to use a different font then you need to upload the truetypefont file to the same directory as 
 the php file and then specify the file name in the query string:
 
-&lt;img src="./images/create_fb_button.php?font=comicsans.ttf" /&gt; <img src="http://www.consof.com/create_fb_button/create_fb_button.php?label=%E3%81%A8%E3%82%B3%E3%83%8D%E3%82%AF%E3%83%88&font=ipag.ttf" />
+&lt;img src="./images/create_fb_button.php?font=comicsans.ttf" /&gt; <img src="http://www.consof.com/create_fb_button/create_fb_button.php?font=comicsans.ttf" />
+
+If you have the correct language truetypefont file you can also specify a foreign language:
+
+&lt;img src="http://www.consof.com/create_fb_button/create_fb_button.php?label=%E3%81%A8%E3%82%B3%E3%83%8D%E3%82%AF%E3%83%88&font=ipag.ttf" /&gt;<img src="http://www.consof.com/create_fb_button/create_fb_button.php?label=%E3%81%A8%E3%82%B3%E3%83%8D%E3%82%AF%E3%83%88&font=ipag.ttf" />
